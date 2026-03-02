@@ -1,4 +1,10 @@
-# Projeto ETL Banvic
+# Projeto_Agente_IA_Python
+
+<center>
+  <img width="900" height="589" alt="image"
+       src="https://github.com/user-attachments/assets/0467b7a7-217a-4027-8436-2dd6222e7bf5" />
+</center>
+
 
 ## 📌 Descrição
 
@@ -13,6 +19,9 @@ Para realizar o RAG foram utilizadas as seguintes bibliotecas Python:
   - Faiss-cpu: Utilizado como auxiliar para o banco vetorial FAISS;
   - Pypdf: Utilizado como auxiliar a leitura de arquivos em PDF;
   - Python-dotenv: Utilizado para trabalhar com ambientes dotenv, isolando dados sensiveis do Gemini.
+
+
+
 
 Como executar a aplicação:
 
